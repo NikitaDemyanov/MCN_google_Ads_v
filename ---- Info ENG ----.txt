@@ -1,0 +1,4 @@
+
+Библиотеки
+pip install google-ads
+pip install requests
