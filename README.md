@@ -11,7 +11,7 @@
 - 
 
 ## What are the plans? 
-🔲 Notifications in Telegram
+🔲 Notifications in Telegram\n
 🔲 Get account balances
 🔲 Get ad statistics (clicks, spend, impressions, conversions)
 🔲 
